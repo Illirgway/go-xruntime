@@ -13,6 +13,7 @@ __This package based on the Go package "unsafe", therefore it cannot be used in 
 #### TODO
 
 * More tests
+* full api doc
 
 ---
 
